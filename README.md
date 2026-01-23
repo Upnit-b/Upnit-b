@@ -9,7 +9,7 @@ I specialize in **end-to-end delivery** — from system design and backend archi
 
 ---
 
-## ⭐ Featured Work (Start Here)
+## ⭐ Featured Work 
 
 ### 📰 Publishing Platform — Production Architecture
 **Next.js · Express · PostgreSQL · PayPal · Docker · AWS**
