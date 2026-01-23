@@ -1,65 +1,89 @@
-# Hi, I’m Upnit Banga 👋
+# 👋 Hi, I’m Upnit Banga
 
-Backend-focused **Software Developer** with **10+ years in Solutions / Implementation Engineering** — I build systems that are easy to integrate, easy to demo, and production-minded.
+**Senior Solutions Engineer & Software Developer** with **12+ years of experience** building, deploying, and integrating **production-ready systems** across web platforms, APIs, and distributed architectures.
 
-📍 Toronto, Canada 🇨🇦 | Open to Canada & US roles
+I specialize in **end-to-end delivery** — from system design and backend architecture to frontend UX, cloud deployment, and third-party integrations.
+
+📍 Toronto, Canada 🇨🇦  
+🌎 Open to opportunities in **Canada & the United States**
 
 ---
 
-## What to look at first:
+## ⭐ Featured Work (Start Here)
 
-### 🛒 Publishing-Platform-Architecture (Production Architecture)
-**Next.js · Express.js · PostgreSQL · PayPal**
-- Deployed on AWS EC2 with nginx and docker
-- Payment integration + one-time-payment
-- Admin panel for creating content
+### 📰 Publishing Platform — Production Architecture (Client Project)
+**Next.js · Express · PostgreSQL · PayPal · Docker · AWS**
 
-➡️ Repo: `Publishing-Platform-Architecture`
+- Production-grade publishing platform with admin workflows
+- Secure one-time payments via PayPal
+- Deployed on **AWS EC2** with **Docker** and **Nginx reverse proxy**
+- Real-world client delivery (architecture & documentation only)
 
+➡️ **Repository:** `Publishing-Platform-Architecture`
 
-### 🧩 Microservices Backend (Social platform template)
-**Node.js / Express · RabbitMQ · Redis · Docker**
-- API gateway + service boundaries
-- Async messaging + caching
-- Designed for integration + onboarding
+---
 
-➡️ Repo: `MicroServices-Backend`
+### 🧩 Microservices Backend — Social Platform Template
+**Node.js · Express · RabbitMQ · Redis · Docker**
 
+- API Gateway with clear service boundaries
+- Event-driven communication using RabbitMQ
+- Redis-based caching layer
+- Designed for scalability, integrations, and onboarding
 
-### 🛒 E-Commerce-Platform-Template (Production template)
+➡️ **Repository:** `MicroServices-Backend`
+
+---
+
+### 🛒 E-Commerce Platform — Production Template
 **Django · PostgreSQL · PayPal**
-- Product/catalog + cart + checkout
-- Payment integration + order flow
-- Reusable template for real deployments
 
-➡️ Repo: `E-Commerce-Platform-Template`
+- Full product catalog, cart, checkout, and order lifecycle
+- PayPal payment integration (sandbox + live-ready flow)
+- Modular, reusable architecture for real deployments
 
-
-### 🧠 Systems Project: C++ File Server
-**C++ · POSIX sockets · Multithreading**
-- Binary file transfer + chunking
-- Multi-client concurrency
-
-➡️ Repo: `FileServer`
+➡️ **Repository:** `E-Commerce-Platform-Template`
 
 ---
 
-## More projects
-- `REST-API` — API fundamentals & backend patterns
-- `AI-Recipe-Generator-Claude-API` — LLM-powered app
-- `AI-Blog-Generator` — AI content generation project
+### ⚙️ Systems Project — C++ File Server
+**C++ · POSIX Sockets · Multithreading**
+
+- Concurrent multi-client file server
+- Binary file transfer with chunking
+- Focus on low-level networking and performance
+
+➡️ **Repository:** `FileServer`
 
 ---
 
-## Tech I use
-**Languages:** TypeScript/JavaScript, Python, C++  
-**Backend:** Node.js, Express, Django, FastAPI  
-**Databases:** PostgreSQL, MongoDB, Redis  
-**DevOps:** Docker, Docker Compose, AWS, Nginx  
-**Integrations:** REST, Webhooks, Postman, OpenAPI/Swagger
+## 🧪 Additional Projects
+- **`REST-API`** — Backend fundamentals and API design patterns  
+- **`AI-Recipe-Generator-Claude-API`** — LLM-powered web application  
+- **`AI-Blog-Generator`** — AI-driven content generation platform  
 
 ---
 
-## Connect
-- LinkedIn: https://www.linkedin.com/in/upnitbanga
-- Portfolio: https://upnit-portfolio.vercel.app/
+## 🛠 Tech Stack
+
+**Languages**  
+TypeScript, JavaScript, Python, C++
+
+**Backend & APIs**  
+Node.js, Express, Django, FastAPI  
+REST APIs, Webhooks, OpenAPI / Swagger
+
+**Databases & Caching**  
+PostgreSQL, MongoDB, Redis
+
+**DevOps & Infrastructure**  
+Docker, Docker Compose, AWS (EC2), Nginx
+
+**Tools & Integrations**  
+Postman, PayPal APIs, CI/CD workflows
+
+---
+
+## 🔗 Connect with Me
+- **LinkedIn:** https://www.linkedin.com/in/upnitbanga  
+- **Portfolio:** https://upnit-portfolio.vercel.app
