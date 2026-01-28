@@ -60,7 +60,7 @@ I specialize in **end-to-end delivery** — from system design and backend archi
 ## 🧪 Additional Projects
 - **`Book-Management-REST-API`** — Backend fundamentals and API design patterns  
 - **`AI-Recipe-Generator-Claude-API`** — LLM-powered web application  
-- **`AI-Blog-Generator`** — AI-driven content generation platform
+- **`AI-Content-Generator`** — AI-driven content generation platform
 - **`Video-Streaming-Platform`** — Netflix inspired movie-streaming web application
 - **`Shopping-Platform-Template`** — Amazon inspired frontend e-commerce platform
 - **`Django-Auction-Platform`** — Auction platform for selling and buying artifacts
