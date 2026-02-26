@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Upnit Banga
 
-**Senior Solutions Engineer & Software Engineer** with **12+ years of experience** building, deploying, and integrating **production-ready systems** across web platforms, APIs, and distributed architectures.
+**Solutions Engineer & Software Engineer** with **12+ years of experience** building, deploying, and integrating **production-ready systems** across web platforms, APIs, and distributed architectures.
 
-I specialize in **end-to-end delivery** — from system design and backend architecture to frontend UX, cloud deployment, and third-party integrations.
+I specialize in **end-to-end delivery** — from system design and backend architecture to frontend UX, cloud deployment, AI, and third-party integrations.
 
 📍 Toronto, Canada 🇨🇦  
 🌎 Open to opportunities in **Canada & the United States**
@@ -57,7 +57,7 @@ I specialize in **end-to-end delivery** — from system design and backend archi
 
 ---
 
-## 🤖 Supervisor Multi-Agent Workflow (LangGraph)
+### 🤖 Supervisor Multi-Agent Workflow (LangGraph)
 **Python · LangGraph · LangChain · Groq (Llama 3.1) · Tavily Search · Pydantic**
 
 - Designed a multi-agent orchestration system with a Supervisor node that dynamically routes tasks across specialized agents (Prompt Enhancer, Researcher, Coder)
