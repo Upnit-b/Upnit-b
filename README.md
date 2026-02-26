@@ -57,6 +57,29 @@ I specialize in **end-to-end delivery** — from system design and backend archi
 
 ---
 
+## 🤖 Supervisor Multi-Agent Workflow (LangGraph)
+**Python · LangGraph · LangChain · Groq (Llama 3.1) · Tavily Search · Pydantic**
+
+- Designed a multi-agent orchestration system with a Supervisor node that dynamically routes tasks across specialized agents (Prompt Enhancer, Researcher, Coder)
+- Built a Validator agent as a quality gate that evaluates responses and loops back only on fundamentally incorrect outputs — minimizing redundant cycles
+- Integrated Tavily web search and Python REPL tool as agent-bound capabilities for grounded research and live code execution
+- Leveraged Pydantic structured outputs with `with_structured_output()` for type-safe, deterministic routing decisions across agent transitions
+
+➡️ **Repository:** `LangGraph-Multi-Agent-Workflow`
+
+---
+
+### 🧠 Multi-Step RAG Pipeline (LangGraph)
+**Python · LangChain · LangGraph · Vector Databases · Embeddings**
+
+- Designed and implemented a multi-step Retrieval-Augmented Generation pipeline with query decomposition, iterative retrieval, and cross-step synthesis
+- Built vector-based retrieval over embedded document chunks with re-ranking and context aggregation to improve answer quality for complex, multi-hop queries
+- Implemented structured LLM outputs for deterministic parsing and reliable downstream processing
+
+➡️ **Repository:** `RAG-LangGraph-Multi-Step-Pipeline`
+
+---
+
 ## 🧪 Additional Projects
 - **`Book-Management-REST-API`** — Backend fundamentals and API design patterns  
 - **`AI-Recipe-Generator-Claude-API`** — LLM-powered web application  
