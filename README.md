@@ -100,7 +100,7 @@ TypeScript, JavaScript, Python, C++
 Node.js, Express, Django, FastAPI  
 REST APIs, Webhooks, OpenAPI / Swagger
 
-**AI & LLM Systems**
+**AI & LLM Systems** 
 LangChain, LangGraph, MCP
 Embeddings, Vector Databases 
 RAG Pipelines
