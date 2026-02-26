@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Upnit Banga
 
-**Senior Solutions Engineer & Software Developer** with **12+ years of experience** building, deploying, and integrating **production-ready systems** across web platforms, APIs, and distributed architectures.
+**Senior Solutions Engineer & Software Engineer** with **12+ years of experience** building, deploying, and integrating **production-ready systems** across web platforms, APIs, and distributed architectures.
 
 I specialize in **end-to-end delivery** — from system design and backend architecture to frontend UX, cloud deployment, and third-party integrations.
 
